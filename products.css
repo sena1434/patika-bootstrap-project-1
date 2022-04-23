@@ -1,0 +1,17 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #e9ecef;
+}
+
+h1 {
+  margin: 80px 0 40px !important;
+}
+
+img {
+  height: 65%;
+}
+
+.card {
+  margin: 15px 15px !important;
+}
